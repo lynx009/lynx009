@@ -35,7 +35,7 @@ Hi, I'm li.
 
 | Topic | Description |
 |:---:|:---|
-| **LLM** | Large Language Models — GPT, Claude, Gemini, etc. |
+| **LLM** | Large Language Models — GPT, Claude, Gemini, GLM, MiniMAX, etc. |
 | **RAG** | Retrieval-Augmented Generation for knowledge-grounded AI |
 | **AI Agent** | Autonomous agents that plan, reason and act |
 | **MCP** | Model Context Protocol for tool-using AI |
