@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 About Me
-Hi, I'm ming.
+Hi, I'm li.
 
 🎓 Student &nbsp;·&nbsp; 💼 Backend Developer
 
