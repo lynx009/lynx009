@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 About Me
-Hi, I'm Li.
+Hi, I'm bai.
 
 🎓 Student &nbsp;·&nbsp; 💼 Backend Developer
 
