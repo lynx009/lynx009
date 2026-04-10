@@ -46,7 +46,7 @@ Hi, I'm li.
 ### 📊 GitHub Stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lynx009&show_icons=true&theme=default&hide_border=true&count_private=true&icon_color=F59E0B&title_color=6366F1&text_color=64748B&bg_color=ffffff" />
+  <img height="150" src="./assets/github-stats.svg" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=100&section=footer" />
