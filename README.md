@@ -45,10 +45,4 @@ Hi, I'm li.
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="150" src="./assets/github-stats.svg" />
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=100&section=footer" />
-
-</div>
