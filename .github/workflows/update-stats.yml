@@ -16,7 +16,8 @@ jobs:
       - name: Fetch GitHub Stats SVG
         run: |
           mkdir -p assets
-          curl -fsSL -o assets/github-stats.svg \
+          curl -fsSL --retry 3 --retry-delay 10 --retry-all-errors \
+            -o assets/github-stats.svg \
             "https://github-readme-stats.vercel.app/api?username=lynx009&show_icons=true&theme=default&hide_border=true&count_private=true&icon_color=F59E0B&title_color=6366F1&text_color=64748B&bg_color=ffffff"
 
       - name: Commit changes
