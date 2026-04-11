@@ -45,8 +45,5 @@ Hi, I'm li.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lynx009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynx009&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=lynx009&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=lynx009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
 
