@@ -47,3 +47,6 @@ Hi, I'm li.
 
 <img src="assets/github-stats.svg" />
 
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=100&section=footer" />
+

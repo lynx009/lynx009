@@ -51,13 +51,13 @@
     }
 
     .rank-circle-rim {
-      stroke: #6366F1;
+      stroke: #3B82F6;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #6366F1;
+      stroke: #3B82F6;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
