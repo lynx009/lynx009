@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 About Me
-Hi, I'm Me.
+Hi, Guys.
 
 🎓 Student &nbsp;·&nbsp; 💼 Backend Developer
 
