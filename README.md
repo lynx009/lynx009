@@ -5,15 +5,13 @@
 
 # Hi, I'm lynx009.
 
-I mainly use **Java, Python, and Go**. I'm interested in **AI agents** — how they collaborate to help people accomplish tasks and turn ideas into useful applications.
-
-I'm a student. I enjoy learning and exploring whatever catches my interest.
+I'm a student who mainly uses **Java, Python, and Go**. I'm interested in **AI agents** — how they collaborate with one another, how they help people complete tasks, and how ideas about agents can be turned into useful applications.
 
 [AI agents](#ai-agents) · [Open source](#open-source) · [Say hello](#say-hello)
 
 ## AI agents
 
-I'm curious about how people and agents can work toward a shared goal — supporting one another, coordinating their efforts, and helping a task move forward.
+I'm interested in how people and agents can work together on real tasks and what makes that collaboration useful in practice.
 
 ## Open source
 

@@ -1,10 +1,10 @@
 # 主页维护指南
 
-主页用简洁的语气介绍常用语言 Java、Python、Go，以及对 AI agents 的兴趣：它们如何协作、帮助完成目标，并把想法变成有用的应用。开源部分介绍 Apache HertzBeat 项目，不罗列个人 PR。横幅使用字母和抽象排版装饰，提供浅色与深色两版。
+主页开头合并学生身份和常用语言 Java、Python、Go。AI agents 的兴趣分清三个方面：Agent 彼此如何协作、如何帮助人完成任务，以及如何将 Agent 相关想法转成实用应用。开源部分介绍 Apache HertzBeat 项目，不罗列个人 PR。横幅使用字母和抽象排版装饰，提供浅色与深色两版。
 
-个人介绍只说是学生，学习和探索由兴趣出发。语气轻松自然，不突出头衔，也不把持续进步、产出或坚持写成个人承诺。
+个人介绍语气轻松自然，不突出头衔，不添加泛泛的学习探索宣言，也不把持续进步、产出或坚持写成个人承诺。AI agents 部分用「感兴趣」直接说明人与 Agent 的实际协作。
 
-PMC 身份放在 `Open source` 的 Apache HertzBeat 标题下、项目介绍前，使用 `**PMC member & contributor** / Observability` 这行简短标签。
+PMC 身份放在 `Open source` 的 Apache HertzBeat 标题下、项目介绍前，使用普通文字 `PMC member & contributor`，不加粗，不附领域标签。
 
 ## 更新位置
 
