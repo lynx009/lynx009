@@ -10,10 +10,10 @@ PMC 身份放在 `Open source` 的 Apache HertzBeat 标题下、项目介绍前�
 
 | 内容 | 修改位置 |
 | --- | --- |
-| 自我介绍、AI agents 兴趣 | 开头说明兴趣；`AI agents` 栏目列关键词：Multi-agent collaboration、Agent workflows、MCP、RAG、Prompt engineering |
+| 自我介绍、AI agents 兴趣 | 开头说明兴趣；`AI agents` 栏目列关键词：Multi-agent collaboration、Agent harnesses、Context engineering、Agent evaluation、MCP |
 | 常用语言（Java、Python、Go） | `README.md` 开头和横幅文字 |
 | Apache HertzBeat 项目介绍 | `Open source` 部分 |
-| 联系方式 | `Say hello` 只保留一句邮箱联系方式 |
+| 联系方式 | `Say hello` 只保留 `Contact me:` 和邮箱链接 |
 | 横幅文字、配色或图形 | `assets/profile-banner.svg` 和 `assets/profile-banner-dark.svg` |
 
 ## 以后添加内容
