@@ -21,7 +21,7 @@ I'm curious about how people and agents can work toward a shared goal — suppor
 
 An open-source monitoring and alerting platform for applications, databases, and infrastructure.
 
-I'm a PMC member of the project.
+PMC member
 
 [Website & docs ↗](https://hertzbeat.apache.org/)
 
