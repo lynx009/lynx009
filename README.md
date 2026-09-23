@@ -7,7 +7,7 @@
 
 I mainly use **Java, Python, and Go**. I'm interested in **AI agents** — how they collaborate to help people accomplish tasks and turn ideas into useful applications.
 
-I'm a student and an **Apache HertzBeat PMC member**. Learning and exploring, a little at a time.
+I'm a student. I enjoy learning and exploring whatever catches my interest.
 
 [AI agents](#ai-agents) · [Open source](#open-source) · [Say hello](#say-hello)
 
