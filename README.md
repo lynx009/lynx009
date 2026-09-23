@@ -19,7 +19,9 @@ I'm curious about how people and agents can work toward a shared goal — suppor
 
 ### [Apache HertzBeat](https://github.com/apache/hertzbeat)
 
-An open-source observability system for monitoring services and infrastructure, with metrics collection and alerting.
+An open-source monitoring and alerting platform for applications, databases, and infrastructure.
+
+I'm a PMC member of the project.
 
 [Website & docs ↗](https://hertzbeat.apache.org/)
 
