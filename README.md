@@ -19,9 +19,9 @@ I'm curious about how people and agents can work toward a shared goal — suppor
 
 ### [Apache HertzBeat](https://github.com/apache/hertzbeat)
 
-An open-source monitoring and alerting platform for applications, databases, and infrastructure.
+**PMC member & contributor** / Observability
 
-PMC member
+An open-source monitoring and alerting platform for applications, databases, and infrastructure.
 
 [Website & docs ↗](https://hertzbeat.apache.org/)
 

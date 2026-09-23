@@ -4,7 +4,7 @@
 
 个人介绍只说是学生，学习和探索由兴趣出发。语气轻松自然，不突出头衔，也不把持续进步、产出或坚持写成个人承诺。
 
-PMC 身份仅在 `Open source` 的 Apache HertzBeat 项目介绍下用普通文字带过，不加粗或突出展示。
+PMC 身份放在 `Open source` 的 Apache HertzBeat 标题下、项目介绍前，使用 `**PMC member & contributor** / Observability` 这行简短标签。
 
 ## 更新位置
 
