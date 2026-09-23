@@ -1,15 +1,20 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
-  <img src="./assets/profile-banner.svg" alt="lynx009 — Building in the open. A personal lynx emblem in forest green and terracotta.">
+  <img src="./assets/profile-banner.svg" alt="lynx009 — Stay curious. A typographic nameplate with abstract shapes in forest green and terracotta.">
 </picture>
 
 # Hi, I'm lynx009.
 
-**Apache HertzBeat PMC member · Backend developer · Student**
+I mainly use **Java, Python, and Go**, and I'm especially interested in **AI agents** — how they use tools, work with context, and turn ideas into useful applications.
 
-I contribute to open-source observability and write Java and Go. Away from monitoring systems, my curiosity takes me into AI agents and computer vision.
+I'm a student and an **Apache HertzBeat PMC member**, with room to keep exploring.
 
-[Open source](#open-source) · [Personal lab](#personal-lab) · [Say hello](#say-hello)
+[AI agents](#ai-agents) · [Open source](#open-source) · [Personal lab](#personal-lab) · [Say hello](#say-hello)
+
+## AI agents
+
+- **Tools & actions** — tool use, MCP, and how agents interact with other systems.
+- **Context & reasoning** — LLMs, retrieval-augmented generation, and prompt design.
 
 ## Open source
 
@@ -39,15 +44,10 @@ A workspace for biomedical image detection and segmentation experiments, with tr
 
 [Explore the code ↗](https://github.com/lynx009/biovision-lab)
 
-## On my radar
-
-- **Agents that can use tools** — AI agents, MCP, and the systems around them.
-- **Models with useful context** — LLMs, retrieval-augmented generation, and prompt design.
-
 ## Say hello
 
 For open-source discussions, start with an issue or pull request in the relevant project. For a direct conversation: [bli065709@gmail.com](mailto:bli065709@gmail.com).
 
 ---
 
-<sub>lynx009 / Code, community, and a little curiosity.</sub>
+<sub>lynx009 / Code, ideas, and room to explore.</sub>

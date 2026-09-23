@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="352" viewBox="0 0 1120 352" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">lynx009 — Building in the open</title>
-  <desc id="desc">An editorial nameplate in forest green and terracotta, with a geometric lynx emblem.</desc>
+  <title id="title">lynx009 — Stay curious</title>
+  <desc id="desc">An editorial nameplate in forest green and terracotta, with abstract lines, a circle, and a typographic x.</desc>
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
       <path d="M28 0H0V28" stroke="#D9DFD1" stroke-width="1"/>
@@ -8,23 +8,19 @@
   </defs>
   <rect x="0.5" y="0.5" width="1119" height="351" rx="12" fill="#F6F2E8" stroke="#D9DFD1"/>
   <path d="M44 63H67" stroke="#B65D3F" stroke-width="3"/>
-  <text x="80" y="68" fill="#667266" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="2">BUILDING IN THE OPEN</text>
+  <text x="80" y="68" fill="#667266" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="2">STAY CURIOUS</text>
   <text x="42" y="204" fill="#24372D" font-family="Georgia, 'Times New Roman', serif" font-size="124" font-weight="700" letter-spacing="-7">lynx<tspan fill="#B65D3F">009</tspan><tspan fill="#24372D">.</tspan></text>
-  <text x="49" y="259" fill="#24372D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="27">Code, community, and a little curiosity.</text>
+  <text x="49" y="259" fill="#24372D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="27">Code, ideas, and room to explore.</text>
   <path d="M48 300H680" stroke="#D9DFD1"/>
   <circle cx="54" cy="324" r="3" fill="#B65D3F"/>
-  <text x="68" y="329" fill="#667266" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="1">OPEN SOURCE / BACKEND / AI</text>
+  <text x="68" y="329" fill="#667266" font-family="'SFMono-Regular', Consolas, monospace" font-size="13" letter-spacing="1">JAVA / PYTHON / GO</text>
 
   <rect x="752" y="28" width="340" height="296" rx="8" fill="url(#grid)"/>
-  <circle cx="916" cy="174" r="111" fill="#E9EDE0" stroke="#D9DFD1"/>
-  <path d="M829 67L822 45M1003 67L1010 45" stroke="#24372D" stroke-width="4" stroke-linecap="round"/>
-  <path d="M831 116L829 63L877 101Q916 85 955 101L1003 63L1001 116L1013 155L982 220L916 258L850 220L819 155Z" fill="#24372D"/>
-  <path d="M831 79L854 111L839 119Z M1001 79L978 111L993 119Z" fill="#B65D3F"/>
-  <path d="M850 152L889 166L865 175Z M982 152L943 166L967 175Z" fill="#F6F2E8"/>
-  <path d="M904 198H928L916 211Z" fill="#B65D3F"/>
-  <path d="M916 211V227M916 227L898 220M916 227L934 220" stroke="#F6F2E8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M853 199L828 191M850 210L823 209M979 199L1004 191M982 210L1009 209" stroke="#B65D3F" stroke-width="3" stroke-linecap="round"/>
-  <path d="M800 41H816M808 33V49M1029 295H1045M1037 287V303" stroke="#B65D3F" stroke-width="2"/>
-  <rect x="963" y="272" width="80" height="30" rx="15" fill="#B65D3F"/>
-  <text x="1003" y="292" text-anchor="middle" fill="#F6F2E8" font-family="'SFMono-Regular', Consolas, monospace" font-size="14" font-weight="700" letter-spacing="3">009</text>
+  <circle cx="911" cy="171" r="107" fill="#E9EDE0"/>
+  <path d="M807 85H861M807 85V139M1026 259H972M1026 259V205" stroke="#D9DFD1" stroke-width="2"/>
+  <path d="M833 245L990 88" stroke="#B65D3F" stroke-width="2"/>
+  <text x="905" y="229" text-anchor="middle" fill="#24372D" font-family="Georgia, 'Times New Roman', serif" font-size="178" font-style="italic">x</text>
+  <circle cx="1003" cy="83" r="11" fill="#B65D3F"/>
+  <path d="M810 291H867M877 291H899" stroke="#B65D3F" stroke-width="3" stroke-linecap="round"/>
+  <text x="1024" y="295" text-anchor="end" fill="#24372D" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="3">009</text>
 </svg>
