@@ -19,7 +19,7 @@ I'm curious about how people and agents can work toward a shared goal — suppor
 
 ### [Apache HertzBeat](https://github.com/apache/hertzbeat)
 
-**PMC member & contributor** / Observability
+PMC member & contributor
 
 An open-source monitoring and alerting platform for applications, databases, and infrastructure.
 
