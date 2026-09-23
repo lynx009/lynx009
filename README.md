@@ -1,48 +1,23 @@
-<div align="center">
+![lynx009 — Backend development and AI exploration](./assets/profile-banner.svg)
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=160&section=header&text=lynx009&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Student&descSize=14&descAlignY=58&descColor=E0E7FF" />
+# Hi, I'm lynx009.
 
----
+A student and backend developer with an interest in AI.
 
-### 🧑‍💻 About Me
-Hi, Guys.
+I work with **Java** and **Go**, and I'm curious about how language models connect with knowledge, tools, and real applications.
 
-🎓 Student &nbsp;·&nbsp; 💼 Backend Developer
+## Languages
 
-📧 [bli065709@gmail.com](mailto:bli065709@gmail.com)
+`Java` · `Go`
 
----
+## Exploring
 
-### 🛠️ Tech Stack
+| Area | What interests me |
+| :--- | :--- |
+| **LLMs & Prompt Engineering** | Understanding model capabilities and designing clearer interactions. |
+| **RAG** | Connecting language models with relevant knowledge. |
+| **AI Agents & MCP** | Exploring how agents plan, use tools, and interact with other systems. |
 
-<p>
-  <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-</p>
+## Get in touch
 
----
-
-### 🌟 Things I'm Interested In
-
-<p>
-  <img src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square&logo=semanticscholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agent-EA580C?style=flat-square&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-059669?style=flat-square&logo=protocol&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4F46E5?style=flat-square&logo=buffer&logoColor=white" />
-</p>
-
-| Topic | Description |
-|:---:|:---|
-| **LLM** | Large Language Models — GPT, Claude, Gemini, GLM, MiniMAX, etc. |
-| **RAG** | Retrieval-Augmented Generation for knowledge-grounded AI |
-| **AI Agent** | Autonomous agents that plan, reason and act |
-| **MCP** | Model Context Protocol for tool-using AI |
-| **Prompt Engineering** | Designing effective prompts & interaction patterns |
-
----
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=100&section=footer" />
-
+[bli065709@gmail.com](mailto:bli065709@gmail.com)
