@@ -11,7 +11,7 @@ I'm a student who mainly uses **Java, Python, and Go**. I'm interested in **AI a
 
 ## AI agents
 
-I'm interested in how people and agents can work together on real tasks and what makes that collaboration useful in practice.
+`Multi-agent collaboration` · `Agent workflows` · `MCP` · `RAG` · `Prompt engineering`
 
 ## Open source
 
@@ -25,7 +25,7 @@ An open-source monitoring and alerting platform for applications, databases, and
 
 ## Say hello
 
-For open-source discussions, start with an issue or pull request in the relevant project. For a direct conversation: [bli065709@gmail.com](mailto:bli065709@gmail.com).
+You can reach me at [bli065709@gmail.com](mailto:bli065709@gmail.com).
 
 ---
 

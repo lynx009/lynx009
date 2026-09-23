@@ -1,6 +1,6 @@
 # 主页维护指南
 
-主页开头合并学生身份和常用语言 Java、Python、Go。AI agents 的兴趣分清三个方面：Agent 彼此如何协作、如何帮助人完成任务，以及如何将 Agent 相关想法转成实用应用。开源部分介绍 Apache HertzBeat 项目，不罗列个人 PR。横幅使用字母和抽象排版装饰，提供浅色与深色两版。
+主页开头合并学生身份、常用语言 Java、Python、Go，以及对 AI agents 的兴趣：Agent 彼此如何协作、如何帮助人完成任务，以及如何将 Agent 相关想法转成实用应用。`AI agents` 栏目只列简短兴趣与技术关键词，不重复开头介绍。开源部分介绍 Apache HertzBeat 项目，不罗列个人 PR。横幅使用字母和抽象排版装饰，提供浅色与深色两版。
 
 个人介绍语气轻松自然，不突出头衔，不添加泛泛的学习探索宣言，也不把持续进步、产出或坚持写成个人承诺。AI agents 部分用「感兴趣」直接说明人与 Agent 的实际协作。
 
@@ -10,10 +10,10 @@ PMC 身份放在 `Open source` 的 Apache HertzBeat 标题下、项目介绍前�
 
 | 内容 | 修改位置 |
 | --- | --- |
-| 自我介绍、AI agents 兴趣 | `README.md` 开头及 `AI agents` 部分 |
+| 自我介绍、AI agents 兴趣 | 开头说明兴趣；`AI agents` 栏目列关键词：Multi-agent collaboration、Agent workflows、MCP、RAG、Prompt engineering |
 | 常用语言（Java、Python、Go） | `README.md` 开头和横幅文字 |
 | Apache HertzBeat 项目介绍 | `Open source` 部分 |
-| 邮箱或其他联系入口 | 联系部分 |
+| 联系方式 | `Say hello` 只保留一句邮箱联系方式 |
 | 横幅文字、配色或图形 | `assets/profile-banner.svg` 和 `assets/profile-banner-dark.svg` |
 
 ## 以后添加内容
