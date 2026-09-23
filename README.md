@@ -25,7 +25,7 @@ An open-source monitoring and alerting platform for applications, databases, and
 
 ## Say hello
 
-Contact me: [bli065709@gmail.com](mailto:bli065709@gmail.com).
+Email: [bli065709@gmail.com](mailto:bli065709@gmail.com).
 
 ---
 
